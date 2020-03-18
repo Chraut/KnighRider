@@ -6,7 +6,6 @@ Created on Feb 29, 2020
 import tkinter as tk
 from tkinter import Button
 
-
 class classGUI(object):
     '''
     classdocs
